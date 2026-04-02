@@ -1,4 +1,4 @@
-# AMiD: Knowledge Distillation for LLMs with -mixture Assistant Distribution [ICLR 2026] 
+# AMiD: Knowledge Distillation for LLMs with α-mixture Assistant Distribution [ICLR 2026] 
 | [arxiv](https://arxiv.org/pdf/2510.15982) | [Openreview](https://openreview.net/forum?id=7WPJ0EgPdW) | Poster |
 
 This repository contains an official PyTorch implementation for the paper **[AMiD: Knowledge Distillation for LLMs with α-mixture Assistant Distribution](https://arxiv.org/abs/2510.15982)** in ICLR 2026.
